@@ -1,9 +1,12 @@
 # Le Vault — Plateforme d'apprentissage & suivi
 
 Plateforme personnelle d'apprentissage et de suivi, bâtie sur le **plan de reconstruction cérébrale**.
-Six couloirs (Acoustique, Sonorisation, DJ, MAO/Reaper, Piano, Chant), une bibliothèque de
-1080 exercices MIDI jouables et téléchargeables, des antisèches imprimables, des formulaires
-DJ par client, et un espace enseignement.
+Dix couloirs — six musique/audio (Acoustique, Sonorisation, DJ, MAO/Reaper, Piano, Chant),
+trois carrière (Ingénierie mécanique, Carrière & négociation, Lecture technique) et un
+création littéraire (Recueil poétique, avec son volet juridique et fiscal) — une
+bibliothèque de 1080 exercices MIDI jouables et téléchargeables, un parcours de lecture de
+24 livres, des antisèches imprimables, des formulaires DJ par client, une page Protocole,
+et un espace enseignement.
 
 Le site est **entièrement statique** : une fois les fichiers en ligne, il fonctionne tout seul,
 sans serveur ni base de données. Toute ta progression est enregistrée dans ton navigateur.
